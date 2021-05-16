@@ -1,6 +1,6 @@
 ### 🌱 안녕하세요 연습하고 배우는 개발자 주진성입니다 👋
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?jjsair0412)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jjsair0412/jjsair0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
