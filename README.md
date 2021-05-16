@@ -1,7 +1,5 @@
 ### 🌱 안녕하세요 연습하고 배우는 개발자 주진성입니다 👋
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-
 <!--
 **jjsair0412/jjsair0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
