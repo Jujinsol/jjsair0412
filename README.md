@@ -1,5 +1,5 @@
 
-<div align=right>
+<div align=left>
  
 ### 🌱 안녕하세요 연습하고 배워서 좋은 개발자가 되고 싶은 주진성입니다 👋
 
