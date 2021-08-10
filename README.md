@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ju Jinseong&fontSize=90" />
 
  
-### 🌱 안녕하세요 연습하고 배워서 좋은 개발자가 되고 싶은 주진성입니다 👋
-### 🙋🏼‍♂️ MY Skills !
+### 🌱 My Skills 👋
+### 🙋🏼‍♂️ What I have used even once !
  
  
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
