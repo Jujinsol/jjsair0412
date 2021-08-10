@@ -1,5 +1,6 @@
 
 <div align=center>
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100)
  
 ### 🌱 안녕하세요 연습하고 배워서 좋은 개발자가 되고 싶은 주진성입니다 👋
 ### 🙋🏼‍♂️ MY Skills !
