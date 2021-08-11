@@ -1,6 +1,10 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ju Jinseong&fontSize=90" />
 
+### 반가워요 !
+### 공부하는 개발자 주진성입니다 👋🏼
+<br>
+<br>
  
 ### 🌱 My Skills 👋
 ### 🙋🏼‍♂️ What I have used even once ! ✍🏼
